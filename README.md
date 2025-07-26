@@ -2,6 +2,8 @@
 
 Esto es un paquete de MLOps con funcionalidades comunes
 
+Este repositorio se irá actualizando con el tiempo para incluir más funcionalidades y herramientas útiles para MLOps.
+
 ## Installation
 
 ```bash
